@@ -1,3 +1,6 @@
+#Hulu UI Clone
+[Live Demo](https://hulu-ui-clone-qg4tr7qpl-blakeacollins.vercel.app/?genre=fetchTrending)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
